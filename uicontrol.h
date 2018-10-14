@@ -2,6 +2,7 @@
 #define UICONTROL_H
 
 #include <QObject>
+
 #include "asioex.h"
 
 class UIControl : public QObject
